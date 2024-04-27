@@ -1,0 +1,11 @@
+# Your content here
+
+Configuring AWS IAM policies and S3 policies to adhere to the principle of least privilege.
+User
+cat < EOF > readme.md
+
+
+ChatGPT
+
+It seems you're trying to use a shell command to redirect text into a file named readme.md. Here's how you can reformat it:
+
